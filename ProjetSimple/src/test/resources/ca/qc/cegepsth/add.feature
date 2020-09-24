@@ -9,3 +9,4 @@ Feature: Calculator
       | first | second | result |
       | 1     | 12     | 13     |
       | -1    | 6      | 5      |
+      | -1    | 7      | 6      |
